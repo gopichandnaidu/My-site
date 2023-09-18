@@ -1,0 +1,26 @@
+.third{
+    width: 200px;
+    height: 40px;
+}
+.third:hover{
+    color: white;
+    background-color: blue;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+
+}
+.h2{
+    color:blueviolet;
+}
+.h2:hover:hover{
+    color:yellow;
+}
+body{
+    background-image: url(image3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    color:aliceblue;
+}

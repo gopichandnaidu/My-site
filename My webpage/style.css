@@ -1,0 +1,73 @@
+.first
+{
+    color: rgb(255, 255, 255);
+    text-align:center;
+}
+#h1
+{
+    color: crimson;
+    text-align: center;
+    lighting-color:blue;
+}
+#h1:hover{
+    color:gold;
+}
+#bold
+{
+    color:chocolate;
+    flood-color:blue;
+    position: relative;
+
+}
+#b1{
+    color:rgb(255, 255, 255);
+    font-style: inherit;
+}
+#b1:hover{
+    color:yellowgreen;
+}
+.second{
+    text-align: center;
+    color: white;
+}
+.third{
+    width: 100px;
+    height: 40px;
+    position: relative;
+}
+.third:hover{
+    color: white;
+    background-color: blue;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    position: relative;
+
+}
+.div{
+    width: 400px;
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+}
+.div:hover{
+    background-color:rgb(58, 58, 58,0.4);
+    backdrop-filter:blur(5px);
+    position: relative;
+    width: 400px;
+    border: none;
+    border-radius: 10px;
+    padding: 20px;
+}
+#b2
+{
+    color:rgb(255, 255, 255);
+    position: relative;
+}
+body{
+    background-image: url(3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
